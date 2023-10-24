@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sign Language Translator</string>
+    <string-array name="Languages">
+        <item>English</item>
+        <item>Urdu</item>
+    </string-array>
+    <string name="signTO">Sign Language</string>
+    <string name="label">Enter Response</string>
+    <string name="responseField">Enter Response</string>
+    <string name="signResponse">السلام علیکم</string>
+    <string name="SignTranslationTextView">Sign Language Translation</string>
+    <string name="UserResponseTextView">Normal User Voice Response</string>
+    <string name="userSpeech">Speech to Text Response</string>
+    <string name="SignTranslationTVUr">اشاروں کی زبان کا ترجمہ</string>
+    <string name="UserResponseTVUr">عام صارف کی آواز کا جواب</string>
+    <string name="mic">Press Mic And Speak</string>
+    <string name="micUr">مائیک دبائیں اور بولیں۔</string>
+</resources>
